@@ -4,6 +4,7 @@
 ### 说明
 1. finished文件夹为build之后文件
 2. 若使用原文件，修改index文件 <script src="/dist/build.js"></script>
+3. [在线地址]( https://hsiangleev.github.io/analog-xiaomi/ )
 
 ## Build Setup
 

@@ -1,8 +1,9 @@
 # vue-cli 仿小米首页
 
 > A Vue.js project
-> finished文件夹为build之后文件
-> 若使用原文件，修改index文件 <script src="/dist/build.js"></script>
+### 说明
+1. finished文件夹为build之后文件
+2. 若使用原文件，修改index文件 <script src="/dist/build.js"></script>
 
 ## Build Setup
 

@@ -1,4 +1,4 @@
-# xiaomi
+# vue-cli 仿小米首页
 
 > A Vue.js project
 

@@ -15,6 +15,8 @@
 		<!-- 为你推荐 -->
 		<recommend></recommend>
 		<hotreview></hotreview>
+		<!-- 内容 -->
+		<mycontent></mycontent>
 
 		<server></server>
 		<foot></foot>
@@ -32,6 +34,7 @@ import componcon from "./components/component.vue";
 import common from "./components/common.vue";
 import recommend from "./components/recommend.vue";
 import hotreview from "./components/hotreview.vue";
+import mycontent from "./components/content.vue";
 
 
 import server from "./components/server.vue";
@@ -53,6 +56,7 @@ export default {
 		common,
 		recommend,
 		hotreview,
+		mycontent,
 		
 		server,
 		foot
